@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
+# For this section, I choose "Additional instructions might include moving forward by more than one square, or moving backwards one square."for improvement.
 
 # In[ ]:
 
