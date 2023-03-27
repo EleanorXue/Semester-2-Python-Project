@@ -30,7 +30,7 @@ def main():
     p = float(input("Here enters the possibility（0 < p < 1）："))
     x_0, y_0 = 0, 0
     runs = int(input("Here enters the how many times of running："))
-    steps = int(input("Here enters the length of the step(n is integer,n>0 is forward,n<0 is backward )"))
+    steps = int(input("Here enters the unit length of the step(n is natural number )"))
     locations = {}
 
     for _ in range(runs):
